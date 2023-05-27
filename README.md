@@ -46,8 +46,8 @@ I'm a cybersecurity enthusiast, cryptography lover, and exploring the field of b
     <img alt="Hyperledger Fabric" src="https://img.shields.io/badge/Hyperledger%20Fabric-%232F3136.svg?&style=for-the-badge&logo=hyperledger&logoColor=white"/> 
     </a> 
     &emsp; 
-    <a href=""https://en.wikipedia.org/wiki/Cryptography" target="_blank"> 
-    <img alt="Cryptography" src="https://img.shields.io/badge/Cryptography-%23ffffff.svg?&style=for-the-badge&logo=letsencrypt&logoColor=black"/> 
+    <a href="https://en.wikipedia.org/wiki/Cryptography" target="_blank"> 
+   <img alt="Cryptography" src="https://img.shields.io/badge/Cryptography-%23ffffff.svg?&style=for-the-badge&logo=letsencrypt&logoColor=black"/> 
     </a> 
     &emsp; 
     <a href="https://en.wikipedia.org/wiki/Cryptanalysis" target="_blank"> 
@@ -61,16 +61,20 @@ I'm a cybersecurity enthusiast, cryptography lover, and exploring the field of b
 
 ## 🚀 Some of My Projects
 
-- [Softconnect](https://github.com/dhruv1972/softconnect): A project that I'm proud of.
-- [Filecure](https://github.com/dhruv1972/filecure): Another project that showcases my skills.
-- [File Commander](https://github.com/dhruv1972/file-commander): A project that demonstrates my command over file systems.
-- [Server Monitoring System](https://github.com/dhruv1972/server-monitoring-system): A project that monitors server resources.
+- [Softconnect](https://github.com/dhruv1972/softconnekt): A project based on Hyperledger Fabric
+- [Filecure](https://github.com/dhruv1972/FileXcure): Another project that showcases my skills.
+- [File Commander](https://github.com/dhruv1972/File_cammander): A project that demonstrates my command over file systems.
+- [Server Monitoring System](https://github.com/dhruv1972/Server_moniiter_webpage): A project that monitors server resources.
 
 ## 📚 Education
 
 - B.Tech (CSIT) from Symbiosis University of Applied Sciences, Indore (Madhya Pradesh, India) - Pursuing (90.8 %) 9.8 CGPA
 - Class-XII (PCM) from Shiv Jyoti Sr. Sec. School, Kota (Rajasthan, India) - 74.00 %
 - Class-X from St. Paul’s Sr. Sec., Chittorgarh (Rajasthan, India) - 89.00 %
+
+## 📝 Research Papers
+
+- [SAILFISH-I: A Lightweight Block Cipher for Cloud-Enabled Fog Devices](https://xplorestaging.ieee.org/document/9997844)
 
 ## 📫 How to reach me:
 
@@ -80,9 +84,9 @@ You can find and get touch with me on these platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvagarwal1972/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvagarwal1903@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=adobe&logoColor=white)](https://dhruv1972.github.io/Dhruv.Agarwal/)
-[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://jobspring-prod-uploads.s3.amazonaws.com/8923d826-ad21-4286-802f-13a3872143ca-.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://dhruv1972.github.io/Dhruv.Agarwal/resume/Dhruv_agarwal_Resume.pdf)
 
-## 📊 My Github Stats:
+##📊 My Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1972&theme=tokyonight&layout=compact)
 
