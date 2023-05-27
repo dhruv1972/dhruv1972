@@ -90,7 +90,7 @@ You can find and get touch with me on these platforms:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=adobe&logoColor=white)](https://dhruv1972.github.io/Dhruv.Agarwal/)
 [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://dhruv1972.github.io/Dhruv.Agarwal/resume/Dhruv_agarwal_Resume.pdf)
 
-##📊 My Github Stats:
+## 📊 My Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1972&theme=tokyonight&layout=compact)
 
