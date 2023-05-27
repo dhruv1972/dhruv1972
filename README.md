@@ -1,8 +1,8 @@
-# Hello, I'm Dhruv 👋
+# Hello, I'm Dhruv Agarwal 👋
 
 ![Profile views](https://gpvc.arturio.dev/dhruv1972)
 
-I'm a technophile, web developer, and command line lover. I have a passion for learning and sharing my knowledge with others as public as possible. If you found value in something I have created, please feel free to give some ♥️ by starring some of the repositories!
+I'm a cybersecurity enthusiast, cryptography lover, and exploring the field of blockchain. My motto is "BE PREMIUM NOT FREEMIUM". I believe in creating my own value, less talking more doing, and creating a lack of options for others. If you found value in something I have created, please feel free to give some ♥️ by starring some of the repositories!
 
 ## 🛠️ My Skills
 
@@ -10,62 +10,77 @@ I'm a technophile, web developer, and command line lover. I have a passion for l
 
 <p align="left"> 
     &emsp; 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
+    </a> 
+    &emsp; 
+    <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
     </a> 
     &emsp; 
     <a href="https://soliditylang.org/" target="_blank"> 
     <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23E34F26.svg?&style=for-the-badge&logo=solidity&logoColor=white"/> 
     </a> 
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
     &emsp; 
-    <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
-    </a> 
-    &emsp; 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
     </a> 
 </p>
 
-### 👉 Backend Development
+### 👉 Skills
 <p align="left"> 
     &emsp; 
-    <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> 
+    <a href="https://www.docker.com/" target="_blank"> 
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
     </a> 
     &emsp; 
-    <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge" alt="express"/> 
-    </a> 
-</p>
-
-### 👉 Databases
-<p align="left"> 
-    &emsp; 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
+    <a href="https://www.linux.org/" target="_blank"> 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/> 
     </a> 
     &emsp; 
-    <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> 
+    </a> 
+    &emsp; 
+    <a href="https://www.hyperledger.org/use/fabric" target="_blank"> 
+    <img alt="Hyperledger Fabric" src="https://img.shields.io/badge/Hyperledger%20Fabric-%232F3136.svg?&style=for-the-badge&logo=hyperledger&logoColor=white"/> 
+    </a> 
+    &emsp; 
+    <a href=""https://en.wikipedia.org/wiki/Cryptography" target="_blank"> 
+    <img alt="Cryptography" src="https://img.shields.io/badge/Cryptography-%23ffffff.svg?&style=for-the-badge&logo=letsencrypt&logoColor=black"/> 
+    </a> 
+    &emsp; 
+    <a href="https://en.wikipedia.org/wiki/Cryptanalysis" target="_blank"> 
+    <img alt="Cryptanalysis" src="https://img.shields.io/badge/Cryptanalysis-%23ffffff.svg?&style=for-the-badge&logo=letsencrypt&logoColor=black"/> 
+    </a> 
+    &emsp; 
+    <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank"> 
+    <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-%23121D1F.svg?&style=for-the-badge&logo=bitcoin&logoColor=white"/> 
     </a> 
 </p>
 
 ## 🚀 Some of My Projects
 
-- [Asset Transfer Chaincode](https://github.com/dhruv1972/asset-transfer-chaincode): Demonstrates the transfer of product keys from one device to another.
-- [Tamper-Proof Event Log and Audit Trail](https://github.com/dhruv1972/tamper-proof-event-log): A solidity project for creating tamper-proof event logs and audit trails.
-- [Server Resource Monitor](https://github.com/dhruv1972/server-resource-monitor): Uses open CMS and JS libraries to monitor and visualize your server resources.
+- [Softconnect](https://github.com/dhruv1972/softconnect): A project that I'm proud of.
+- [Filecure](https://github.com/dhruv1972/filecure): Another project that showcases my skills.
+- [File Commander](https://github.com/dhruv1972/file-commander): A project that demonstrates my command over file systems.
+- [Server Monitoring System](https://github.com/dhruv1972/server-monitoring-system): A project that monitors server resources.
+
+## 📚 Education
+
+- B.Tech (CSIT) from Symbiosis University of Applied Sciences, Indore (Madhya Pradesh, India) - Pursuing (90.8 %) 9.8 CGPA
+- Class-XII (PCM) from Shiv Jyoti Sr. Sec. School, Kota (Rajasthan, India) - 74.00 %
+- Class-X from St. Paul’s Sr. Sec., Chittorgarh (Rajasthan, India) - 89.00 %
 
 ## 📫 How to reach me:
 
 You can find and get touch with me on these platforms:
 
 [![Github](https://img.shields.io/github/followers/dhruv1972?label=Follow%20Me&style=social)](https://github.com/dhruv1972)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvagarwal1972/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvagarwal1903@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=adobe&logoColor=white)](https://dhruv1972.github.io/Dhruv.Agarwal/)
+[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://jobspring-prod-uploads.s3.amazonaws.com/8923d826-ad21-4286-802f-13a3872143ca-.pdf)
 
 ## 📊 My Github Stats:
 
