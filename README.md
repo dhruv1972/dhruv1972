@@ -2,7 +2,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/dhruv1972)
 
-I'm a cybersecurity enthusiast, cryptography lover, and exploring the field of blockchain. My motto is "BE PREMIUM NOT FREEMIUM". I believe in creating my own value, less talking more doing, and creating a lack of options for others. If you found value in something I have created, please feel free to give some ♥️ by starring some of the repositories!
+-I'm a cybersecurity enthusiast, cryptography lover, and exploring the field of blockchain. 
+-I work on methodology of "BE PREMIUM NOT FREEMIUM". 
+-I believe in creating my own value, less talking more doing, and creating a lack of options for others.
+- If you found value in something I have created, please feel free to give some ♥️ by starring some of the repositories!
 
 ## 🛠️ My Skills
 
