@@ -92,7 +92,7 @@
 
 ## 📚 Education
 
-- B.Tech (CSIT) from Symbiosis University of Applied Sciences, Indore (Madhya Pradesh, India) - Pursuing (90.8 %) 9.8 CGPA
+- B.Tech (CSIT) from Symbiosis University of Applied Sciences, Indore (Madhya Pradesh, India) - Pursuing (90.8 %) 9.08 CGPA
 - Class-XII (PCM) from Shiv Jyoti Sr. Sec. School, Kota (Rajasthan, India) - 74.00 %
 - Class-X from St. Paul’s Sr. Sec., Chittorgarh (Rajasthan, India) - 89.00 %
 
