@@ -28,6 +28,18 @@
     <a href="https://www.w3.org/html/" target="_blank"> 
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
     </a> 
+    &emsp; 
+    <a href="https://www.python.org/" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+    </a>
+    &emsp; 
+    <a href="https://www.latex-project.org/" target="_blank"> 
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> 
+    </a>
+    &emsp; 
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank"> 
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> 
+    </a>    
 </p>
 
 ### 👉 Skills
@@ -60,6 +72,14 @@
     <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank"> 
     <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-%23121D1F.svg?&style=for-the-badge&logo=bitcoin&logoColor=white"/> 
     </a> 
+    &emsp; 
+    <a href="https://www.ietf.org/standards/rfcs/" target="_blank"> 
+    <img alt="Documentation" src="https://img.shields.io/badge/Documentation-%23FFFFFF.svg?&style=for-the-badge&logo=read-the-docs&logoColor=black"/> 
+    </a>
+    &emsp; 
+    <a href="https://www.researchgate.net/" target="_blank"> 
+    <img alt="Research" src="https://img.shields.io/badge/Research-%2300563C.svg?&style=for-the-badge&logo=academia&logoColor=white"/> 
+    </a>
 </p>
 
 ## 🚀 Some of My Projects
